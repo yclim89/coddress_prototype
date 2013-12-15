@@ -1,0 +1,67 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+ADMIN_PATH	/home/perrin4869/websites/coddress/configuration.php	/^    public static $ADMIN_PATH = '';$/;"	v
+ADMIN_URL	/home/perrin4869/websites/coddress/configuration.php	/^    public static $ADMIN_URL = '\/admin\/';$/;"	v
+CLIENT_COMPONENTS_FILE	/home/perrin4869/websites/coddress/configuration.php	/^    public static $CLIENT_COMPONENTS_FILE = '\/client_components.php';$/;"	v
+CONFIG_FILE	/home/perrin4869/websites/coddress/configuration.php	/^    public static $CONFIG_FILE = '';$/;"	v
+CORE_FILES_PATH	/home/perrin4869/websites/coddress/configuration.php	/^    public static $CORE_FILES_PATH = '';$/;"	v
+DATABASE_NAME	/home/perrin4869/websites/coddress/configuration.php	/^    public static $DATABASE_NAME = 'coddress';$/;"	v
+DATABASE_PASSWORD	/home/perrin4869/websites/coddress/configuration.php	/^    public static $DATABASE_PASSWORD = 'conan';$/;"	v
+DATABASE_USERNAME	/home/perrin4869/websites/coddress/configuration.php	/^    public static $DATABASE_USERNAME = 'root';$/;"	v
+DATETIME_MYSQL_FORMAT	/home/perrin4869/websites/coddress/configuration.php	/^    public static $DATETIME_MYSQL_FORMAT = 'Y-m-d G:i:s';$/;"	v
+DATE_FORMAT	/home/perrin4869/websites/coddress/configuration.php	/^    public static $DATE_FORMAT = 'd-m-Y';$/;"	v
+DATE_TIME_FORMAT	/home/perrin4869/websites/coddress/configuration.php	/^    public static $DATE_TIME_FORMAT = 'd-m-Y G:i';$/;"	v
+DEFAULT_EXTENSION	/home/perrin4869/websites/coddress/configuration.php	/^    public static $DEFAULT_EXTENSION = 'html';$/;"	v
+DOCUMENT_ROOT	/home/perrin4869/websites/coddress/configuration.php	/^    public static $DOCUMENT_ROOT = '';$/;"	v
+DotCoreConfig	/home/perrin4869/websites/coddress/configuration.php	/^class DotCoreConfig$/;"	c
+FEATURES_LOCAL_PATH	/home/perrin4869/websites/coddress/configuration.php	/^    public static $FEATURES_LOCAL_PATH = '';$/;"	v
+FEATURES_LOCAL_URL	/home/perrin4869/websites/coddress/configuration.php	/^    public static $FEATURES_LOCAL_URL = '\/features\/';$/;"	v
+FEATURES_REPOSITORY_PATH	/home/perrin4869/websites/coddress/configuration.php	/^    public static $FEATURES_REPOSITORY_PATH = '';$/;"	v
+FEATURES_REPOSITORY_URL	/home/perrin4869/websites/coddress/configuration.php	/^    public static $FEATURES_REPOSITORY_URL = '';$/;"	v
+GLOBAL_ADMIN_PATH	/home/perrin4869/websites/coddress/configuration.php	/^    public static $GLOBAL_ADMIN_PATH = '';$/;"	v
+GLOBAL_ADMIN_URL	/home/perrin4869/websites/coddress/configuration.php	/^    public static $GLOBAL_ADMIN_URL = '';$/;"	v
+GLOBAL_COMPONENTS_PATH	/home/perrin4869/websites/coddress/configuration.php	/^    public static $GLOBAL_COMPONENTS_PATH = '';$/;"	v
+IMAGES_URL	/home/perrin4869/websites/coddress/configuration.php	/^    public static $IMAGES_URL = '\/images\/';$/;"	v
+INSTALLATION_ROOT_URL	/home/perrin4869/websites/coddress/configuration.php	/^    public static $INSTALLATION_ROOT_URL = 'http:\/\/local.dotcore.com\/';$/;"	v
+JAVASCRIPTS_URL	/home/perrin4869/websites/coddress/configuration.php	/^    public static $JAVASCRIPTS_URL = '';$/;"	v
+LINE_BREAK	/home/perrin4869/websites/coddress/configuration.php	/^    public static $LINE_BREAK = '\\n';$/;"	v
+LOCAL_COMPONENTS_PATH	/home/perrin4869/websites/coddress/configuration.php	/^    public static $LOCAL_COMPONENTS_PATH = '';$/;"	v
+LOCAL_COMPONENTS_URL	/home/perrin4869/websites/coddress/configuration.php	/^    public static $LOCAL_COMPONENTS_URL = '\/components\/';$/;"	v
+LOCAL_JAVASCRIPTS_URL	/home/perrin4869/websites/coddress/configuration.php	/^    public static $LOCAL_JAVASCRIPTS_URL = '\/scripts\/';$/;"	v
+LOCAL_ROOT_PATH	/home/perrin4869/websites/coddress/configuration.php	/^    public static $LOCAL_ROOT_PATH = '';$/;"	v
+LOCAL_STYLES_URL	/home/perrin4869/websites/coddress/configuration.php	/^    public static $LOCAL_STYLES_URL = '\/styles\/';$/;"	v
+LOCAL_TEMPLATES_PATH	/home/perrin4869/websites/coddress/configuration.php	/^    public static $LOCAL_TEMPLATES_PATH = '';$/;"	v
+LOCAL_TEMPLATES_URL	/home/perrin4869/websites/coddress/configuration.php	/^    public static $LOCAL_TEMPLATES_URL = '\/templates\/';$/;"	v
+PROGRAMS_LOCAL_PATH	/home/perrin4869/websites/coddress/configuration.php	/^    public static $PROGRAMS_LOCAL_PATH = '';$/;"	v
+PROGRAMS_LOCAL_URL	/home/perrin4869/websites/coddress/configuration.php	/^    public static $PROGRAMS_LOCAL_URL = '\/programs\/';$/;"	v
+PROGRAMS_REPOSITORY_PATH	/home/perrin4869/websites/coddress/configuration.php	/^    public static $PROGRAMS_REPOSITORY_PATH = '';$/;"	v
+PROGRAMS_REPOSITORY_URL	/home/perrin4869/websites/coddress/configuration.php	/^    public static $PROGRAMS_REPOSITORY_URL = '';$/;"	v
+PROGRAM_PARAMETER	/home/perrin4869/websites/coddress/configuration.php	/^    public static $PROGRAM_PARAMETER = 'program';$/;"	v
+REPOSITORY_ROOT_PATH	/home/perrin4869/websites/coddress/configuration.php	/^    public static $REPOSITORY_ROOT_PATH = '\/home\/perrin4869\/websites\/dotcore.co.il\/public_html\/';$/;"	v
+ROLE_ADMINS	/home/perrin4869/websites/coddress/configuration.php	/^    public static $ROLE_ADMINS = 'admin';$/;"	v
+ROLE_CONFIGURATION	/home/perrin4869/websites/coddress/configuration.php	/^    public static $ROLE_CONFIGURATION = 'configuration';$/;"	v
+ROLE_CONTACT_US_RECIPIENTS	/home/perrin4869/websites/coddress/configuration.php	/^    public static $ROLE_CONTACT_US_RECIPIENTS = 'contact_us_recipients';$/;"	v
+ROLE_FEATURES	/home/perrin4869/websites/coddress/configuration.php	/^    public static $ROLE_FEATURES = 'features';$/;"	v
+ROLE_GALLERY	/home/perrin4869/websites/coddress/configuration.php	/^    public static $ROLE_GALLERY = 'gallery';$/;"	v
+ROLE_PAGES	/home/perrin4869/websites/coddress/configuration.php	/^    public static $ROLE_PAGES = 'pages';$/;"	v
+ROOT_URL	/home/perrin4869/websites/coddress/configuration.php	/^    public static $ROOT_URL = 'http:\/\/local.coddress.com\/';$/;"	v
+SECRET_STRING	/home/perrin4869/websites/coddress/configuration.php	/^    public static $SECRET_STRING = 'secsagfasfsadsfdfgret_ssgfasfasdhgggdsdfhasafsagggsagtring_tsgasgaghat no one ggggasgasgawidsadllsagasg ever know aafsasgagasgbout,asfaecause it\\'sdsad dangerous! I%#(%*#(*%#))';$/;"	v
+STYLES_URL	/home/perrin4869/websites/coddress/configuration.php	/^    public static $STYLES_URL = '';$/;"	v
+init	/home/perrin4869/websites/coddress/configuration.php	/^    public static function init() {$/;"	f
+page_renderer	/home/perrin4869/websites/coddress/index.php	/^$page_renderer = new DotCorePageRenderer();$/;"	v
+path	/home/perrin4869/websites/coddress/components.php	/^        $path = DotCoreConfig::$GLOBAL_COMPONENTS_PATH . $component_name . '\/include.php';$/;"	v
+path	/home/perrin4869/websites/coddress/components.php	/^        $path = DotCoreConfig::$GLOBAL_COMPONENTS_PATH . $path;$/;"	v
+path	/home/perrin4869/websites/coddress/components.php	/^        $path = DotCoreConfig::$LOCAL_COMPONENTS_PATH . $component_name . '\/include.php';$/;"	v
+path	/home/perrin4869/websites/coddress/components.php	/^        $path = DotCoreConfig::$LOCAL_COMPONENTS_PATH . $path;$/;"	v
+path	/home/perrin4869/websites/coddress/components.php	/^    $path = $component . '\/include.php';$/;"	v
+path	/home/perrin4869/websites/coddress/components.php	/^function register_global_component($component_name, $path = NULL, $configuration = NULL) {$/;"	v
+path	/home/perrin4869/websites/coddress/components.php	/^function register_local_component($component_name, $path = NULL, $configuration = NULL) {$/;"	v
+profiler	/home/perrin4869/websites/coddress/index.php	/^$profiler = new profiling();$/;"	v
+register_global_component	/home/perrin4869/websites/coddress/components.php	/^function register_global_component($component_name, $path = NULL, $configuration = NULL) {$/;"	f
+register_global_data_access_component	/home/perrin4869/websites/coddress/components.php	/^function register_global_data_access_component($component) {$/;"	f
+register_local_component	/home/perrin4869/websites/coddress/components.php	/^function register_local_component($component_name, $path = NULL, $configuration = NULL) {$/;"	f
+register_local_data_access_component	/home/perrin4869/websites/coddress/components.php	/^function register_local_data_access_component($component) {$/;"	f

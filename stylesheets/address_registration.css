@@ -1,0 +1,15 @@
+#user_registration{
+	display: none;
+}
+
+#user_registration.open { display: block; }
+
+#login{
+	display: none;
+}
+
+#login.open { display: block; }
+
+.error{
+	color: #DD4444;
+}
