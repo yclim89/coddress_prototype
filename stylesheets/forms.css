@@ -1,0 +1,13 @@
+.error{
+	color: #DD4444;
+}
+
+.required {
+	color: #DD4444;
+}
+
+form label {
+	display: inline-block;
+	width: 250px;
+	margin-bottom: 5px;
+}
